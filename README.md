@@ -1,17 +1,8 @@
-## Hello World! <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2>
+### Hi there 👋 
+### This is Riski Abiyantoro!
 
-<p align="center">
-  <i><b>Let's connect and chat!</b></i>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/riskiabiyan)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riski-abiyantoro-93176b228/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:riskiabiyan@gmail.com)
 
-  <p align="center">
-    <a href="https://twitter.com/farziphotograph" alt="Twitter"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/jatin-pahuja/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.instagram.com/farziphotographer" alt="Instagram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
-     <a href="https://t.me/farziphotographer" alt="Telegram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
-     <a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
-
-  </p>
-    
-</p>
-
-⭐️ From [jatin-pahuja](https://github.com/jatin-pahuja)
+<img src="https://github-readme-stats.vercel.app/api?username=riskiabiyan&show_icons=true&theme=nightowl"/>
