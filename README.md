@@ -7,7 +7,7 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=riskiabiyan&show_icons=true&theme=nightowl"/>
 
-I am Riski Abiyantoro - I was born in Lampung in August 2001 <br>👨‍💻 I studied programming languages for 3 years. 
+I am Riski Abiyantoro - I was born in Lampung at August 2001 <br>👨‍💻 I studied programming languages for 3 years. 
 
 - 🔭 I’m study at yogyakarta university of technology.
 - 🌱 I'm currently studying laravel and mobile programming
